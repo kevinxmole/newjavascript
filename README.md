@@ -12,4 +12,4 @@ The loop
 
 ## Function
 
-The functiongnhmjtmtj
+The function
